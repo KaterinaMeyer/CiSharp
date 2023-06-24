@@ -1,3 +1,5 @@
-﻿int numberA = 3;
-int numberВ = 5;
-Console.WriteLine(numberA + numberВ );
+﻿int numberC = new Random().Next(1,1562);
+int numberD = new Random().Next(1,10);
+Console.WriteLine(numberC);
+Console.WriteLine(numberD);
+Console.WriteLine(numberC + numberD );
