@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp5_if\obj\Debug\net6.0\Exp5_if.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp5_if\obj\Debug\net6.0\Exp5_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp5_if\obj\Debug\net6.0\Exp5_if.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp5_if\obj\Debug\net6.0\Exp5_if.AssemblyInfo.cs
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp5_if\obj\Debug\net6.0\Exp5_if.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp5_if\bin\Debug\net6.0\Exp5_if.exe
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp5_if\bin\Debug\net6.0\Exp5_if.deps.json
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp5_if\bin\Debug\net6.0\Exp5_if.runtimeconfig.json
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp5_if\bin\Debug\net6.0\Exp5_if.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp5_if\bin\Debug\net6.0\Exp5_if.pdb
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp5_if\obj\Debug\net6.0\Exp5_if.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp5_if\obj\Debug\net6.0\refint\Exp5_if.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp5_if\obj\Debug\net6.0\Exp5_if.pdb
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp5_if\obj\Debug\net6.0\Exp5_if.genruntimeconfig.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp5_if\obj\Debug\net6.0\ref\Exp5_if.dll
