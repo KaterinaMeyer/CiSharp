@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp4_diff\bin\Debug\net6.0\Exp4_diff.exe
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp4_diff\bin\Debug\net6.0\Exp4_diff.deps.json
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp4_diff\bin\Debug\net6.0\Exp4_diff.runtimeconfig.json
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp4_diff\bin\Debug\net6.0\Exp4_diff.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp4_diff\bin\Debug\net6.0\Exp4_diff.pdb
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp4_diff\obj\Debug\net6.0\Exp4_diff.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp4_diff\obj\Debug\net6.0\Exp4_diff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp4_diff\obj\Debug\net6.0\Exp4_diff.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp4_diff\obj\Debug\net6.0\Exp4_diff.AssemblyInfo.cs
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp4_diff\obj\Debug\net6.0\Exp4_diff.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp4_diff\obj\Debug\net6.0\Exp4_diff.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp4_diff\obj\Debug\net6.0\refint\Exp4_diff.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp4_diff\obj\Debug\net6.0\Exp4_diff.pdb
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp4_diff\obj\Debug\net6.0\Exp4_diff.genruntimeconfig.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp4_diff\obj\Debug\net6.0\ref\Exp4_diff.dll
