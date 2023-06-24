@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp7_magic\bin\Debug\net6.0\Exp7_magic.exe
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp7_magic\bin\Debug\net6.0\Exp7_magic.deps.json
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp7_magic\bin\Debug\net6.0\Exp7_magic.runtimeconfig.json
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp7_magic\bin\Debug\net6.0\Exp7_magic.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp7_magic\bin\Debug\net6.0\Exp7_magic.pdb
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp7_magic\obj\Debug\net6.0\Exp7_magic.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp7_magic\obj\Debug\net6.0\Exp7_magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp7_magic\obj\Debug\net6.0\Exp7_magic.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp7_magic\obj\Debug\net6.0\Exp7_magic.AssemblyInfo.cs
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp7_magic\obj\Debug\net6.0\Exp7_magic.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp7_magic\obj\Debug\net6.0\Exp7_magic.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp7_magic\obj\Debug\net6.0\refint\Exp7_magic.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp7_magic\obj\Debug\net6.0\Exp7_magic.pdb
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp7_magic\obj\Debug\net6.0\Exp7_magic.genruntimeconfig.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\lek1\Exp7_magic\obj\Debug\net6.0\ref\Exp7_magic.dll
